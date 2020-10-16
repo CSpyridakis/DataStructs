@@ -8,7 +8,7 @@ public class Table {
     int num;
     private Node[] hashingTable;
 
-    //______________________Hashing Table_______________________
+    //______________________Hash Table_______________________
     public Table() {                                          //|
         hashingTable = new Node[N];                           //|
         for (int i = 0; i < N; i++) {                         //|

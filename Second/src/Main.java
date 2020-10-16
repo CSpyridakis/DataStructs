@@ -7,7 +7,7 @@ public class Main {
         Random rand = new Random();
         int [] states={20,100,1000,10000};
 
-        //___________________________For creating hashing table with values________________________________
+        //___________________________For creating each hash table with values________________________________
         for(int j=0;j<4;j++){
             System.out.println("\nFor :"+states[j]+ " Values");
 

@@ -28,3 +28,6 @@ make run
 ```
 make clear
 ```
+
+### Known Bug
+- Fix OutOfBoundsException that sometimes occurs when handling a large number of elements.

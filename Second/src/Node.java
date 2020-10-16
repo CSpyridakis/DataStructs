@@ -93,7 +93,7 @@ public class Node {
                     return rightside.searchValue(valueInBinary, --bitsLeft);//continue
                 }
                 catch (Exception e){
-                    System.out.println("Exception: " + e);
+                    // System.out.println("Exception: " + e);
                     return rightside.searchValue(valueInBinary, bitsLeft);//continue
                 }
             }

@@ -24,9 +24,9 @@ make
 make run
 ```
 
-3. To clear executables and generated files
+3. To clean executables and generated files
 ```
-make clear
+make clean
 ```
 
 ### Known Bug
